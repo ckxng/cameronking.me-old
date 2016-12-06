@@ -6,6 +6,7 @@ Regarding these files:
 - /\*.html
 - /\*.yml
 - /\*.scss
+- /\*.xml
 - /_includes/\*
 - /_layouts/\*
 - /_sass/\*
