@@ -23,7 +23,6 @@ author:
 
 pages_list:       
   Blog: '/blog'
-  About: '/about'
   Archive: '/archive'
   PGP: '/pgp'
   Feed: '/atom.xml'
