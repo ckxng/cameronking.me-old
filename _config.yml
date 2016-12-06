@@ -2,10 +2,10 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
+title:               Ckxng
+tagline:             Change
+url:                 http://www.ckxng.com
+paginate:            10
 baseurl:             ""
 
 # Assets
@@ -17,14 +17,21 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Cameron King
+  url:               http://www.ckxng.com
+  email:             cking@ckxng.com
+
+pages_list:       
+  Blog: '/blog'
+  About: '/about'
+  Archive: '/archive'
+  PGP: '/pgp'
+  Feed: '/atom.xml'
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/ckxng/poole-blog.git
 
 # Gems
 gems:
