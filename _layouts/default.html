@@ -24,10 +24,12 @@
         {{ content }}
       </main>
       
-      <footer class="footer">
-        <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
-        </small>
+      <footer class="footer" style="text-align: center">
+        <span style="font-size: small;   display: inline-block;  vertical-align: middle;  line-height: normal;">
+          <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0; display:inline; margin-bottom: 0px;" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />
+          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. {{ site.author.name }}.<br />
+          This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+        </span>
       </footer>
     </div>
 
