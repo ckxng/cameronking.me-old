@@ -22,10 +22,8 @@ author:
   email:             cking@ckxng.com
 
 pages_list:       
-  Blog: '/blog'
-  Archive: '/archive'
   PGP: '/pgp'
-  Feed: '/atom.xml'
+
 
 # Custom vars
 version:             2.0.0
