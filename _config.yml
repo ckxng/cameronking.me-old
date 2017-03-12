@@ -22,6 +22,10 @@ author:
   email:             cking@ckxng.com
 
 pages_list:       
+  FreeBSD: '/nix/freebsd'
+  Linux: '/nix/linux'
+  Microcontrollers: '/code/micro'
+  Security: '/security'
   PGP: '/pgp'
 
 
