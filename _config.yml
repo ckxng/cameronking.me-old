@@ -29,7 +29,7 @@ pages_list:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/ckxng/poole-blog.git
+  repo:              https://github.com/ckxng/ckxng-blog.git
 
 # Gems
 gems:
