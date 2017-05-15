@@ -4,11 +4,15 @@ layout: page
 
 I am a father, husband, son, brother, friend, employee, boss, and tinkerer.
 
-I don't post much on social media, but you can find me in two places:
+I don't post much on social media, but if you do then you can contact me via.
+the following services:
 
-- Facebook: [https://www.facebook.com/cameroncking](https://www.facebook.com/cameroncking])
-- LinkedIn: [https://www.linkedin.com/in/cameroncking](https://www.linkedin.com/in/cameroncking)
+- Facebook: [https://www.facebook.com/cameroncking](https://www.facebook.com/cameroncking]) (personal)
+- LinkedIn: [https://www.linkedin.com/in/cameroncking](https://www.linkedin.com/in/cameroncking) (work-related)
 
+**Where did the blog go?**  The personal information that was previously posted 
+here as been removed and there is not enough valuable technical information here
+to justify preserving.
 
 
 
