@@ -11,6 +11,8 @@ is some information you may find useful.
 Did I give you a blue and yellow contact card?  If so, you found the 
 right place!
 
+![WSJ 2019 Contact Card](/public/content/wsj19-contact-card.jpg)]
+
 This year marks the [24th World Jamboree](https://www.2019wsj.org/).
 WSJ is organized by the 
 [World Organization of the Scouting Movement](https://www.scout.org/),
