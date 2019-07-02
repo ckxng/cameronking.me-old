@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Ckxng
-tagline:             Change
-url:                 https://www.ckxng.com
+title:               Cameron King
+tagline:             Cameron King
+url:                 https://www.cameronking.me
 paginate:            10
 baseurl:             ""
 
@@ -18,8 +18,8 @@ sass:
 # About/contact
 author:
   name:              Cameron King
-  url:               https://www.ckxng.com
-  email:             cking@ckxng.com
+  url:               https://www.cameronking.me
+  email:             cameron@cameronking.me
 
 pages_list:       
   Social Media: '/social'
