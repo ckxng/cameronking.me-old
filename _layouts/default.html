@@ -8,17 +8,18 @@
     <div class="container content">
       <header class="masthead">
         <p class="masthead-title">
+          <a href="{{ site.baseurl }}/" title="{{ site.tagline }}"
+            ><img src="{{ site.baseurl }}/public/content/images/cameronking-shield.png" title="Shield of Cameron King" 
+              style="max-width: 10%; max-height: none; display: inline;" /></a>
           <small><strong><a href="{{ site.baseurl }}/" style="color: black;">Home</a></strong></small>
           {% for page in site.pages_list %}
               &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
-        </p><br />
+          <br />          
+          <a href="{{ site.baseurl }}/" title="{{ site.tagline }}"
+             ><h1 style="font-size: 3em">{{ site.title }}</h1></a>
+        </p>
         
-          <a href="{{ site.baseurl }}/" title="{{ site.tagline }}"
-            ><img src="{{ site.baseurl }}/public/content/images/cameronking-shield.png" title="{{ site.title }}" 
-              style="max-width: 200px; max-height: none; display: inline;" /></a>
-          <a href="{{ site.baseurl }}/" title="{{ site.tagline }}"
-             ><h1>{{ site.title }}</h1></a>
 
       </header>
 
