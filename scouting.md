@@ -6,6 +6,25 @@ title: Scouting
 If you have stumbled accross me in a Scouting context, here 
 is some information you may find useful.
 
+# 24th World Scout Jamboree
+
+<a href="/public/content/images/wsj19-contact-card.png"><img src="/public/content/images/wsj19-contact-card.png" title="WSJ 2019 Contact Card" border=0 align="right" style="max-width: 10%" /></a>
+
+Did I give you a contact card?  If so, you found the right place!
+
+This year marks the [24th World Jamboree](https://www.2019wsj.org/).
+WSJ is organized by the 
+[World Organization of the Scouting Movement](https://www.scout.org/),
+and the three National Service Organizations for Scouting in North America
+([Canada](https://www.scouts.ca)/[USA](https://www.scouting.org)/[Mexico](http://scouts.org.mx)),
+are joininly hosting the event at 
+[Summit Bechtel Reserve](https://www.summitbsa.org/) in 
+[West Virginia](https://www.wv.gov).  I will be attending as a member 
+of the International Service Team working in Emergency Management.
+
+I am `cameron.king` on JamboChat and USA contingent members can contact me 
+through the contingent app.
+
 # Cub Scout Pack 378
 
 My kids and I are members of [Pack 378](http://www.pack378.net) 
@@ -27,3 +46,4 @@ week of Summer and is open to
 going into 1st grade through 5th grade.  We have strong participation
 from local units and parents, which allows us to put on an 
 excelent program year after year.
+
