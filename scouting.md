@@ -8,7 +8,7 @@ is some information you may find useful.
 
 # 24th World Scout Jamboree
 
-<a href="/public/content/images/wsj19-contact-card.png"><img src="/public/content/images/wsj19-contact-card.png" title="WSJ 2019 Contact Card" border=0 align="right" style="max-width: 10%" /></a>
+<a href="/public/content/images/wsj19-contact-card.png"><img src="/public/content/images/wsj19-contact-card.png" title="WSJ 2019 Contact Card" border=0 align="right" style="max-width: 10%; max-height: none; display: inline;" /></a>
 
 Did I give you a contact card?  If so, you found the right place!
 
