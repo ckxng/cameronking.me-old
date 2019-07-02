@@ -2,8 +2,6 @@
 layout: page
 ---
 
-I am a father, husband, son, brother, friend, employee, boss, and tinkerer.
-
 I don't post much on social media, but if you do then you can contact me via.
 the following services:
 
