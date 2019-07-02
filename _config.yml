@@ -23,8 +23,6 @@ author:
 
 pages_list:       
   Social Media: '/social'
-  PGP: '/pgp'
-
 
 # Custom vars
 version:             2.0.0
