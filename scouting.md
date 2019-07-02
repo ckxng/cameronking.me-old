@@ -8,9 +8,10 @@ is some information you may find useful.
 
 # 24th World Scout Jamboree
 
-<a href="/public/content/images/wsj19-contact-card.png"><img src="/public/content/images/wsj19-contact-card.png" title="WSJ 2019 Contact Card" border=0 align="right" style="max-width: 10%; max-height: none; display: inline;" /></a>
+Did I give you a blue and yellow contact card?  If so, you found the 
+right place!
 
-Did I give you a contact card?  If so, you found the right place!
+![WSJ 2019 Contact Card](/public/content/images/wsj19-contact-card.jpg)
 
 This year marks the [24th World Jamboree](https://www.2019wsj.org/).
 WSJ is organized by the 
@@ -23,7 +24,8 @@ are joininly hosting the event at
 of the International Service Team working in Emergency Management.
 
 I am `cameron.king` on JamboChat and USA contingent members can contact me 
-through the contingent app.
+through the contingent app.  If I gave you a card, that card also includes
+my email address.
 
 # Cub Scout Pack 378
 
