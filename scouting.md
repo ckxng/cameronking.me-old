@@ -23,9 +23,9 @@ are joininly hosting the event at
 [West Virginia](https://www.wv.gov).  I attended as a member 
 of the International Service Team working in Emergency Management.
 
-# New Cub Scout Pack at Woodland West
+# New Arlington Pack
 
-(Woodland West Church of Christ)[http://www.wooodlandwest.org] is starting 
+[Woodland West Church of Christ](http://www.wooodlandwest.org) is starting 
 a new Cub Scout pack, and we are actively recruiting!  Come and check us out
 at our Cub Scout Rally on August 31, 2019 from 12pm - 3pm.  The rally will be at
 3101 W. Park Row Dr., which is right next door to Duff Elementary.
