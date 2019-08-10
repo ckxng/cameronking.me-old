@@ -20,12 +20,15 @@ and the three National Service Organizations for Scouting in North America
 ([Canada](https://www.scouts.ca)/[USA](https://www.scouting.org)/[Mexico](http://scouts.org.mx)),
 are joininly hosting the event at 
 [Summit Bechtel Reserve](https://www.summitbsa.org/) in 
-[West Virginia](https://www.wv.gov).  I will be attending as a member 
+[West Virginia](https://www.wv.gov).  I attended as a member 
 of the International Service Team working in Emergency Management.
 
-I am `cameron.king` on JamboChat and USA contingent members can contact me 
-through the contingent app.  If I gave you a card, that card also includes
-my email address.
+# New Cub Scout Pack at Woodland West
+
+(Woodland West Church of Christ)[http://www.wooodlandwest.org] is starting 
+a new Cub Scout pack, and we are actively recruiting!  Come and check us out
+at our Cub Scout Rally on August 31, 2019 from 12pm - 3pm.  The rally will be at
+3101 W. Park Row Dr., which is right next door to Duff Elementary.
 
 # Cub Scout Pack 378
 
