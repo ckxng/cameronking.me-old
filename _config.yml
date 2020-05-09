@@ -32,5 +32,6 @@ github:
 
 # Gems
 gems:
+  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-gist
