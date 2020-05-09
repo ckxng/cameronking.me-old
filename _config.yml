@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Cameron King
 tagline:             Cameron King
-url:                 https://www.cameronking.me
+url:                 https://cameronking.me
 paginate:            10
 baseurl:             ""
 
@@ -18,12 +18,8 @@ sass:
 # About/contact
 author:
   name:              Cameron King
-  url:               https://www.cameronking.me
+  url:               https://cameronking.me
   email:             cameron@cameronking.me
-
-pages_list:       
-  Scouting: '/scouting'
-  Social Media: '/social'
 
 # Custom vars
 version:             2.0.0
