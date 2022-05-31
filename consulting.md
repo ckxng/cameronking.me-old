@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Consulting by ECC
 ---
 
-# ![ECC logo][logo] Consulting by ECC
+![ECC logo][logo]
 
 Since 2010, I have provided consulting services under the ECC brand.  This
 consulting firm provides a variety of services, offering a personal touch and

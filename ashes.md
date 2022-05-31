@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Ashes History
 ---
 
-# Ashes History
 This is the known history of the campfire ashes carried by Cameron King.
 
 ## John McInnis

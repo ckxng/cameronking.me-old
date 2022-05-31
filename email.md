@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Email Change
 ---
-
-# Email Change
 
 For all of the members of our household (old enough to write), you can find us
 back at our original "family" domain:

@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Scouting
 ---
 
-# Scouting
 If you have stumbled accross me in a Scouting context, here is some information
 you may find useful.
 

@@ -1,8 +1,7 @@
 ---
 layout: page
+title: RISUS One-Pager
 ---
-
-# RISUS One-Pager
 
 Full RISUS rules can be found for free at [DriveThroughRPG][dtrpg].  It's
 four whole pages, so take your time, and don't hurt yourself trying to get

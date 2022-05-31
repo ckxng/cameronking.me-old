@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Projects
 ---
-
-# Projects
 
 Here is a selection of several _personal_ projects which I have
 developed or worked on.

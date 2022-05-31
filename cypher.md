@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Cypher System House Rules
 ---
 
-# Cypher System House Rules
 I particularly like the Cypher System by Monte Cook Games.  However, there are
 a few things that I houserule to make the game more appealing to my players
 (most of which are either younger, or do not regularly play Cypher games).

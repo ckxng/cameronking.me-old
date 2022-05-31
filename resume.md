@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Resume
 ---
-
-# Resume
 
 * [Work History](#wh)
 * [Education](#e)

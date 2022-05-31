@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Kalimera Printing
 ---
-
-# Kalimera Printing
 
 We provide design and printing to meet your needs:
 
