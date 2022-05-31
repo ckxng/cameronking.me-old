@@ -358,3 +358,4 @@ You can also view my [LinkedIn profile][li] or my [PDF resume][pdf].
 [li]: https://www.linkedin.com/in/cameroncking/
 [pdf]: /public/content/resume/cameronking.pdf
 
+Last Updated: 2021
