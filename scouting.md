@@ -27,7 +27,7 @@ My daughter is also a member of Scouts BSA Trool 9-3/4, a girls troop group
 with great Scout Spirit and a Harry Potter theme.
 
 ## 218e FOS De Kariboes
-https://caenepeelfauve.wixsite.com/dekariboeswelpen
+[dekariboeswelpen](https://caenepeelfauve.wixsite.com/dekariboeswelpen)
 
 Pack 379 is sister-units with the Caribou Cubs.
 
@@ -64,7 +64,7 @@ control the area, due to COVID concerns).
 
 ## University of Scouting and College of Commissioner Science
 
-I serve as staff for both UofS and CCS, supporting web registration and scheduling.
+I serve as faculty for both UofS and CCS, supporting web registration and scheduling.
 
 ## Arrowhead District
 [arrowheadlhc.org](https://www.arrowheadlhc.org)
