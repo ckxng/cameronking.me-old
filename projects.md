@@ -3,11 +3,10 @@ layout: page
 title: Projects
 ---
 
-Here is a selection of several _personal_ projects which I have
-developed or worked on.
+Here is a selection of several _personal_ projects which I think are most interesting.
 
 ## Pinewood Derby Racing Web
-GitHub: https://github.com/ckxng/racingweb
+GitHub: [ckxng/racingweb](https://github.com/ckxng/racingweb)
 
 This is a web-based tool for generating race schedules and running
 pinewood derbies.  It's written in C++17 with
@@ -23,7 +22,7 @@ These tools help with volunteer and calendar management using Planning
 Center Online.
 
 ### Calendar Notify
-GitHub: https://github.com/ckxng/pco-calnotify
+GitHub: [ckxng/pco-calnotify](https://github.com/ckxng/pco-calnotify)
 
 On a recurring scheudle, this module will watch a Planning Center
 calendar for events matching a specific set of labels and will send
@@ -31,7 +30,7 @@ notifications via.  email and text message at defined intervals prior
 to the event's scheduled time.
 
 ### Team Schedule Veiwer
-GitHub: https://github.com/ckxng/TeamScheduleViewer
+GitHub: [ckxng/TeamScheduleViewer](https://github.com/ckxng/TeamScheduleViewer)
 
 Presents a mobile-browser-friendly and printable schedule for voluneers using
 Planning Center Serviecs.
@@ -39,8 +38,8 @@ Planning Center Serviecs.
 ---
 
 ## University of Scouting
-GitHub (v1 - node): https://github.com/ckxng/universityofscouting  
-GitHub (v2 - .net): https://github.com/ckxng/ClassPortal
+GitHub (v1 - node): [ckxng/universityofscouting](https://github.com/ckxng/universityofscouting)  
+GitHub (v2 - .net): [ckxng/ClassPortal](https://github.com/ckxng/ClassPortal)
 
 It's important to have trained leaders in an organization like the
 BSA, and 2020 brought some unique challenges.  We took a virtual-first
@@ -55,10 +54,10 @@ University of Scouting.
 
 ---
 
-## Chat Bots
+## Chat Bots and Tools
 ### SoothBot and Invisible Sun Text Parser
-GitHub: https://github.com/ckxng/soothbot  
-GitHub: https://github.com/ckxng/invisible-sun-text-processor
+GitHub: [ckxng/soothbot](https://github.com/ckxng/soothbot)  
+GitHub: [ckxng/invisible-sun-text-processor](https://github.com/ckxng/invisible-sun-text-processor)
 
 This bot is a Discord chat bot, designed to facilitate online sessions
 of Invisible Sun RPG.  It includes a dice roller, sooth deck and path
@@ -72,8 +71,8 @@ origninal run) into a structured YAML file which can be read by the
 bot.
 
 ### Adaptive Card CLI
-GitHub: https://github.com/ckxng/acardbot-cli  
-NPM: https://www.npmjs.com/package/@ckxng/acardbot-cli
+GitHub: [ckxng/acardbot-cli](https://github.com/ckxng/acardbot-cli)  
+NPM: [@ckxng/acardbot-cli](https://www.npmjs.com/package/@ckxng/acardbot-cli)
 
 I had a need to post text messages to Microsoft Teams channels, and it
 was somewhat challenging to find a simple API that would do what I
@@ -86,7 +85,7 @@ This CLI sends text messages and an optional title to teams channels.
 ---
 
 ## Cypher System RPG Character Generator
-GitHub: https://github.com/ckxng/cyphergen-web
+GitHub: [ckxng/cyphergen-web](https://github.com/ckxng/cyphergen-web)
 
 This simple Heroku-friendly webapp allows GMs to upload the world
 parameters for their upcoming campaign, and players may then use a
@@ -94,11 +93,14 @@ special link to generate Level 1 characters.  This is helpful, because
 Cypher is a system that is designed to be customized, and there is a
 lack of online tooling supporting this aspect of the RPG system.
 
+Game parameters are entered as a JSON file 
+([example](https://github.com/ckxng/cyphergen-web/blob/main/examples/game-setting.json)).
+
 ---
 
 ## Standard Version CI Action
-GitHub: https://github.com/ckxng/docker-standardversion  
-Docker Hub: https://hub.docker.com/r/ckxng/standardversion
+GitHub: [ckxng/docker-standardversion](https://github.com/ckxng/docker-standardversion)  
+Docker Hub: [ckxng/standardversion](https://hub.docker.com/r/ckxng/standardversion)
 
 I needed a convenient way to manage version numbers at merge-time in
 JavaScript and Puppet modules, and found that standard-version does
@@ -121,7 +123,7 @@ MakeCode block editor for the benefit of scouts interested in
 programming.
 
 ### Feather M0 Express
-GitHub: https://github.com/ckxng/pxt-simple-pwd-finish-line-judge
+GitHub: [pxt-simple-pwd-finish-line-judge](https://github.com/ckxng/pxt-simple-pwd-finish-line-judge)
 
 The first iteration is based on an Feather M0 Express, and includes
 only the absolute minimum features required to serve as a finish line
@@ -129,7 +131,7 @@ judge. The only output is through the single onboard pixel. Blink once
 for a win in the first lane, blink twice for a win in the second lane.
 
 ### Circuit Playground Express
-GitHub: https://github.com/ckxng/pxt-lightup-pwd-finishline-judge
+GitHub: [ckxng/pxt-lightup-pwd-finishline-judge](https://github.com/ckxng/pxt-lightup-pwd-finishline-judge)
 
 The second iteration is only slightly more complicated, and is based
 on the design from the first project. This version uses a Circuit
@@ -144,29 +146,13 @@ time of the winning car, though it is only reported by serial.
 
 ---
 
-## Pregnancy Timer
-GitHub: https://github.com/ckxng/arduino-pregnancy-clock
-
-For one of my kids, we announced my wife's pregnancy by creating a
-tiny little count up clock.
-
-The board was an Arduino Nano connected to a real-time clock module
-and a SSD1306-based OLED display (the bar accross the top was yellow,
-and the remainder of the display was blue). The whole thing was wired
-as closely as possible and jammed into a tiny project box which was
-almost exactly the right size to hold it all.
-
-The GitHub repo has build photos.
-
----
-
 ## Diceware
 
 My "Hello World" lately, has been to generate diceware passwords.
 Here are a few projects where I explored new languages or patterns.
 
 ### CLI (Go)
-GitHub: https://github.com/ckxng/diceware
+GitHub: [ckxng/diceware](https://github.com/ckxng/diceware)
 
 I wrote this simply to play around a bit with some specific go
 patterns, such as test coverage, concurrency, interfaces, and error
@@ -193,21 +179,21 @@ own passwords at your own risk.
     }
 
 ### Web (JavaScript)
-GitHub: https://github.com/ckxng/diceware-web  
-Docker Hub: https://hub.docker.com/r/ckxng/diceware-web  
-Live: https://ckxng.github.io/diceware-web/public/
+GitHub: [ckxng/diceware-web](https://github.com/ckxng/diceware-web)  
+Docker Hub: [ckxng/diceware-web](https://hub.docker.com/r/ckxng/diceware-web)  
+Live: [ckxng.github.io/diceware-web/public/](https://ckxng.github.io/diceware-web/public/)
 
 Diceware Web is a static, JavaScript site with no external resources
 that generates 8-word Diceware passwords.
 
 ### API (JavaScript)
-GitHub: https://github.com/ckxng/dicewareapi
+GitHub: [ckxng/dicewareapi](https://github.com/ckxng/dicewareapi)
 
 If you would like to generate a diceware password in the least secure
 way possible, feel free to click the links below.
 
-- https://diceware.azure-api.net/api/1/generate
-- https://diceware.azure-api.net/api/1/generate?length=8&sep=%5E&upper=1&digit=1
+- [/api/1/generate](https://diceware.azure-api.net/api/1/generate)
+- [/api/1/generate?length=8&sep=%5E&upper=1&digit=1](https://diceware.azure-api.net/api/1/generate?length=8&sep=%5E&upper=1&digit=1)
 
 (The initial API call may take up to a few minutes as Azure boots up
 the container that hosts the API code. Subsequent calls will be much
@@ -220,16 +206,16 @@ secure... but this is not a safe way to generate passwords.
 It's more of an Azure API "hello world" than anything else.
 
 ### API (Python Flask)
-GitHub: https://github.com/ckxng/diceware-flask
+GitHub: [ckxng/diceware-flask](https://github.com/ckxng/diceware-flask)
 
-- https://protected-atoll-19813.herokuapp.com/api/v1/passphrase?words=8&sep=~
+- [/api/v1/passphrase?words=8&sep=~](https://protected-atoll-19813.herokuapp.com/api/v1/passphrase?words=8&sep=~)
 
 A second API-based implimentation, equally ill-suited to generate your
 personal passwords, demonstrates a single Flask-based web API
 endpoint.
 
 ### API with Observability (ASP.NET Core)
-GitHub: https://github.com/ckxng/diceware-netapi
+GitHub: [ckxng/diceware-netapi](https://github.com/ckxng/diceware-netapi)
 
 I wrote this in order to run through the Hello World paces with the
 new ASP.NET Core libraries, and to demo metrics observality within a
@@ -238,11 +224,11 @@ simple API.
 ---
 
 ## Very Small Web Publishing Tools
-GitHub: https://github.com/ckxng/tinysite  
-GitHub: https://github.com/ckxng/microsite-php  
-GitHub: https://github.com/ckxng/microsite-golang  
-GitHub: https://github.com/ckxng/microsite-ruby  
-GitHub: https://gist.github.com/ckxng/5fba350bc22e8dd981d7d5a01b5b1daa#file-microsite-cgi
+GitHub: [ckxng/tinysite](https://github.com/ckxng/tinysite)  
+GitHub: [ckxng/microsite-php](https://github.com/ckxng/microsite-php)  
+GitHub: [ckxng/microsite-golang](https://github.com/ckxng/microsite-golang)  
+GitHub: [ckxng/microsite-ruby](https://github.com/ckxng/microsite-ruby)  
+Gist: [microsite-cgi](https://gist.github.com/ckxng/5fba350bc22e8dd981d7d5a01b5b1daa#file-microsite-cgi)
 
 These small webapps wrap static pages in a simple HTML template.  The
 TinySite project includes it's on WYSIWYG editor, while the others
@@ -256,28 +242,8 @@ http.Handle.
 
 ---
 
-## ECC Docker Repo
-GitHub: https://github.com/ecc12/docker
-
-In 2014, I created a somewhat standardized set of Docker images based
-on CentOS 6 which I used for both personal and professional
-projects. Since then, best practices for Docker have come a long way
-and the Dockerfiles I created no longer even build (since the
-centos:6.4 base image is no longer available).
-
-Recently, I moved all of these projects to their own repos, with hopes
-of someday revisiting them. Until then, you can find them here:
-https://github.com/ckxng?tab=repositories. I am leaving the original
-repo in place for the time being, as that is where dockerhub is
-pulling from.
-
-Ultimately, the community has come a long way since 2014, and these
-Docker images are likely no longer of use to anyone anymore.
-
----
-
 ## Other Misc Projects
-GitHub: https://github.com/ckxng?tab=repositories
+GitHub: [ckxng](https://github.com/ckxng?tab=repositories)
 
 I've tinkered with a lot of different ideas, some good, some bad. For
 every repo that's pushed here, there are several more that I never got
